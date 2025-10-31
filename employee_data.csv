@@ -1,0 +1,11 @@
+Emp_ID,Emp_Name,Gender,Age,Dept_ID,Dept_Name,Job_Title,Salary,Hire_Date,Location
+E101,John Smith,Male,30,D01,Data Analytics,Data Analyst,55000,2020-03-12,Delhi
+E102,Priya Das,Female,27,D02,Software,Software Engineer,72000,2021-07-09,Bangalore
+E103,Rahul Mehta,Male,35,D03,Management,Project Manager,98000,2019-10-21,Mumbai
+E104,Sneha Patel,Female,29,D01,Data Analytics,Data Scientist,85000,2022-01-17,Delhi
+E105,David Lee,Male,40,D04,HR,HR Manager,65000,2018-06-30,Hyderabad
+E106,Amit Sharma,Male,32,D02,Software,Backend Developer,70000,2020-09-25,Bangalore
+E107,Neha Gupta,Female,26,D01,Data Analytics,ML Engineer,88000,2023-02-11,Delhi
+E108,Michael Brown,Male,38,D03,Management,Business Analyst,90000,2019-11-05,Mumbai
+E109,Sara Khan,Female,28,D04,HR,Recruiter,60000,2021-03-10,Hyderabad
+E110,Ravi Kumar,Male,31,D02,Software,Frontend Developer,68000,2022-07-19,Bangalore
